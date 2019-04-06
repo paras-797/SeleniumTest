@@ -1,6 +1,6 @@
 Feature: Testing Google Search page		
 
-
+#This is a comment
 Scenario: Verificaton of string search
 
 
